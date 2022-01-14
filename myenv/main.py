@@ -1,5 +1,5 @@
 # This was taken from a youtube video (https://www.youtube.com/watch?v=PuZY9q-aKLw)
-# with good walk-through explanation.  Check it out!
+# with good walk-through explanation.  Check it out!!
 
 import numpy as np
 import matplotlib.pyplot as plt
